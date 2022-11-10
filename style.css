@@ -87,10 +87,14 @@ transition: transform 1.25s;
 footer
 {
     position: fixed;
-    height: 20px;
+    height: 30px;
     left: 0;
     bottom: 0;
     width: 100%;
     color: white;
     text-align: center;
+}
+footer a 
+{
+    color: white;
 }
